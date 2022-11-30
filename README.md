@@ -1,4 +1,5 @@
 -  Heya, I’m Prayorshi-Mishra
+-  I'm a 3rd year B.Tech(CSE) student
 -  I've also served as a content writer in few IT corporations.
 -  I’m interested in Programming, App Development.
 -  I’m currently learning Java, Web Development, Problem Solving
